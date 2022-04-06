@@ -201,7 +201,7 @@ class ClientManager {
                         max_version: { [Op.gt]: version },
                     },
                 }).then((deploymentsVersionsMore) => {
-                    let item = _.sortBy(deploymentsVersionsMore, 'created_at').reverse()[0];
+                    const item = _.last(_.sortBy(deploymentsVersionsMore, 'created_at'));
                     logger.debug({
                         item,
                     });
