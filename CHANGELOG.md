@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.3](https://github.com/shm-open/code-push-server/compare/v2.1.2...v2.1.3) (2022-04-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency aws-sdk to v2.1109.0 ([1d3cab0](https://github.com/shm-open/code-push-server/commit/1d3cab0c310ca39398e65d334970add1e9119529))
+* **deps:** update dependency body-parser to v1.20.0 ([ae55396](https://github.com/shm-open/code-push-server/commit/ae553969a3154617a60db8890da7a3467c5cbcd4))
+* **deps:** update dependency moment to v2.29.2 ([a4c875d](https://github.com/shm-open/code-push-server/commit/a4c875d7c0b69f88a82c1cb1ee43e2b354ad97b1))
+* **deps:** update dependency redis to v4.0.6 ([442743f](https://github.com/shm-open/code-push-server/commit/442743f20d642d3a0adc3be0f6abbc707544077f))
+* **deps:** update dependency sequelize to v6.18.0 ([34ef968](https://github.com/shm-open/code-push-server/commit/34ef96860518e9d31769bbed6c43b1501b6bb11b))
+* use latest matching deployment ([fb70185](https://github.com/shm-open/code-push-server/commit/fb701856c688a1a62a6f52b3b3de58b1179b954f)), closes [#162](https://github.com/shm-open/code-push-server/issues/162)
+
 ### [2.1.2](https://github.com/shm-open/code-push-server/compare/v2.1.1...v2.1.2) (2022-03-25)
 
 
