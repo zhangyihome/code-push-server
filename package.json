@@ -67,7 +67,7 @@
     "sequelize": "6.18.0",
     "slash": "3.0.0",
     "validator": "13.7.0",
-    "yargs": "17.4.0",
+    "yargs": "17.4.1",
     "yazl": "2.5.1"
   },
   "devDependencies": {
