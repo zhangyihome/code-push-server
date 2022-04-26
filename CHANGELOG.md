@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.4](https://github.com/shm-open/code-push-server/compare/v2.1.3...v2.1.4) (2022-04-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency aws-sdk to v2.1121.0 ([f59e9ae](https://github.com/shm-open/code-push-server/commit/f59e9ae1d2605b2f5938fc6e8dde6c8e3a20711f))
+* **deps:** update dependency cos-nodejs-sdk-v5 to v2.11.7 ([d74aa2a](https://github.com/shm-open/code-push-server/commit/d74aa2a43670971e8eac227412931ddc9f39a91a))
+* **deps:** update dependency express to v4.18.0 ([9b2fee3](https://github.com/shm-open/code-push-server/commit/9b2fee3cf87a79ad7d26bf7e342d70efb21af273))
+* **deps:** update dependency fs-extra to v10.1.0 ([2699a4a](https://github.com/shm-open/code-push-server/commit/2699a4a6f2cf77d917a8cce5a0eac348149efa1a))
+* **deps:** update dependency moment to v2.29.3 ([b9af976](https://github.com/shm-open/code-push-server/commit/b9af976fcd701aa3d1645c8b82f50932c4fb414c))
+* **deps:** update dependency qiniu to v7.5.0 ([f9068c2](https://github.com/shm-open/code-push-server/commit/f9068c2dcc4e83aec9820b05b21262fe859f88d6))
+* **deps:** update dependency sequelize to v6.19.0 ([d447d42](https://github.com/shm-open/code-push-server/commit/d447d4258ec22ac367041a58599a2d803cf4d090))
+* **deps:** update dependency yargs to v17.4.1 ([5431b62](https://github.com/shm-open/code-push-server/commit/5431b624a2b7b0d72a1dd79365c690c536b2b708))
+
 ### [2.1.3](https://github.com/shm-open/code-push-server/compare/v2.1.2...v2.1.3) (2022-04-07)
 
 
