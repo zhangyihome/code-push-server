@@ -60,7 +60,7 @@
     "node-fetch": "2.6.7",
     "nodemailer": "6.7.3",
     "pug": "3.0.2",
-    "qiniu": "7.5.0",
+    "qiniu": "7.7.0",
     "rand-token": "1.0.1",
     "recursive-readdir": "2.2.2",
     "redis": "4.0.6",
